@@ -1,0 +1,44 @@
+.background-lightblue {
+  background-color: lightblue;
+}
+
+.background-seashell {
+  background-color: seashell;
+}
+
+.color-limegreen {
+  color: limegreen;
+}
+
+.main {
+  margin-top: 100px;
+}
+
+.error {
+  color: red;
+  padding-left: 15px;
+}
+
+.padding-vertical-medium {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.padding-bottom-large {
+  padding-bottom: 20px;
+}
+
+.padding-left-large {
+  padding-left: 20px;
+}
+
+.main-image {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  margin: 10px 10px 10px 0px;
+}
+
+.inline-block {
+  display: inline-block;
+}
